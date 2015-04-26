@@ -4,4 +4,4 @@
 
 This repository contains the files necessary to run a [Shiny](http://shiny.rstudio.com/) application with a simple text prediction algorithm.
 
-It is available [here](danilofreire.shinyapps.io/predikt). 
+It is available [here](http://danilofreire.shinyapps.io/predikt). 
